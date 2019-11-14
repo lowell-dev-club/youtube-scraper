@@ -101,7 +101,7 @@ https://www.rottentomatoes.com/tv/the_mandalorian
 https://www.boxofficemojo.com/release/rl252151297/?ref_=bo_sh_tx
 ```
 
-You can now customize your html email messages with css styling and html elements!
+You can now view, process, and use information off any website!
 
 View the code file [here](youtube_scrape.py)  
 Check out a functioning program [here](https://repl.it/@calee14/Youtube-Scraper)
